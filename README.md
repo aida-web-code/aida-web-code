@@ -61,5 +61,6 @@ I specialize in developing business-oriented web applications, e-commerce platfo
 
 ## 📫 Contact
 
-Email: your-email@example.com  
+Email: aidanickkhoo@gmail.com
+
 Location: Istanbul, Turkey

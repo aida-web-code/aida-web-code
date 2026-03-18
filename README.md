@@ -58,6 +58,10 @@ I specialize in developing business-oriented web applications, e-commerce platfo
 - Custom CMS Development  
 
 ---
+## Note
+
+This repository represents a conceptual design based on my professional experience in developing business systems over the years.
+
 
 ## 📫 Contact
 
